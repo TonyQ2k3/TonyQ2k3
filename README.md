@@ -12,11 +12,13 @@
 
 + [Deploying and monitoring microservices with Kubernetes, Prometheus and Grafana](https://github.com/TonyQ2k3/fullstack-microservice)
 
-+ [Automatic Deployment Pipeline for Microservice Application](https://github.com/NT114-DevOps)
++ [Deployment Pipeline (CI/CD) for Microservice Application](https://github.com/NT114-DevOps)
 
-+ [Health tracking mobile app](https://github.com/Q2DTeam/Health-Tracker)
++ [Health Tracking Mobile App](https://github.com/Q2DTeam/Health-Tracker)
 
-+ [Enterprise network design](https://github.com/TonyQ2k3/enterprise-network-design)
++ [Enterprise Network Design](https://github.com/TonyQ2k3/enterprise-network-design)
+
++ [Smart Home Sensor Management System](https://github.com/TonyQ2k3/home-sensor-system)
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
