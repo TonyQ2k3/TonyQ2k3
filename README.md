@@ -8,7 +8,7 @@
 <a href="https://www.hackerrank.com/profile/tonynguyenit2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asdasdasd" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">👨‍💻  My top Projects:</h3>
+<h3 align="left">👨‍💻  My Top Projects:</h3>
 
 + [Deploying and monitoring microservices with Kubernetes, Prometheus and Grafana](https://github.com/TonyQ2k3/fullstack-microservice)
 
