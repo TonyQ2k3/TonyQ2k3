@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 , I'm Tony Nguyen</h1>
+<h1 align="center">Hello 👋 , I'm Nguyen Tran Bao Quoc</h1>
 <h3 align="center">A third-year student and a passionate software developer from Vietnam</h3>
 
 <h3 align="left">🤝 Connect with me:</h3>
