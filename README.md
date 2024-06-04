@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 , I'm Nguyen Tran Bao Quoc</h1>
-<h3 align="center">A third-year student and a passionate software developer from Vietnam</h3>
+<h3 align="center">A third-year student, a passionate software developer and DevOps practitioner from Vietnam</h3>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
