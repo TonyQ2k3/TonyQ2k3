@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 , I'm Nguyen Tran Bao Quoc</h1>
+![image](https://github.com/user-attachments/assets/9cb73a04-75ad-470c-a86b-c720a3ab66d1)<h1 align="center">Hello 👋 , I'm Nguyen Tran Bao Quoc</h1>
 <h3 align="center">A senior-year student, a passionate software developer and DevOps practitioner from Vietnam</h3>
 
 <h3 align="left">🤝 Connect with me:</h3>
@@ -51,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/365230?s=200&v=4" height="40" alt="datadog logo"  />
 </div>
 
 <br/>
