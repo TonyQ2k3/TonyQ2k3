@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9cb73a04-75ad-470c-a86b-c720a3ab66d1)<h1 align="center">Hello 👋 , I'm Nguyen Tran Bao Quoc</h1>
+<h1 align="center">Hello 👋 , I'm Nguyen Tran Bao Quoc</h1>
 <h3 align="center">A senior-year student, a passionate software developer and DevOps practitioner from Vietnam</h3>
 
 <h3 align="left">🤝 Connect with me:</h3>
