@@ -10,13 +10,13 @@
 
 <h3 align="left">👨‍💻  My Top Projects:</h3>
 
++ [Synthetic Monitoring System](https://github.com/TonyQ2k3/synthetic-monitoring)
+
 + [Deploying and monitoring microservices with Kubernetes, Prometheus and Grafana](https://github.com/TonyQ2k3/fullstack-microservice)
 
 + [Deployment Pipeline (CI/CD) for Microservice Application](https://github.com/NT114-DevOps)
 
 + [Health Tracking Mobile App](https://github.com/Q2DTeam/Health-Tracker)
-
-+ [Enterprise Network Design](https://github.com/TonyQ2k3/enterprise-network-design)
 
 + [Smart Home Sensor Management System](https://github.com/TonyQ2k3/home-sensor-system)
 
