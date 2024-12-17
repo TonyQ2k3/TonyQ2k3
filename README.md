@@ -10,7 +10,7 @@
 
 <h3 align="left">👨‍💻  My Top Projects:</h3>
 
-+ [Synthetic Monitoring System](https://github.com/TonyQ2k3/synthetic-monitoring)
++ [Synthetic Monitoring System using Cypress and NodeJS](https://github.com/TonyQ2k3/synthetic-monitoring)
 
 + [Deploying and monitoring microservices with Kubernetes, Prometheus and Grafana](https://github.com/TonyQ2k3/fullstack-microservice)
 
